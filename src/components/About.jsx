@@ -62,7 +62,7 @@ const About = ({aboutRef}) => {
 
             <div className="mt-10 text-lg mb-16 pl-3 pr-3">
               Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
-              Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.
+              Curabitur arcu sfdvfsfrat, accumsan id imperdiet et, porttitor at sem.
               Praesent sapien massa, convallis a pellentesque nec, egestas non
               nisi. Nulla porttitor accumsan tincidunt. <br></br>
               <br></br>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar
